@@ -37,7 +37,7 @@ export default defineConfig({
         manifest: {
           name: 'ChatGPT-API Demo',
           short_name: 'ChatGPT Demo',
-          description: 'A demo repo based on OpenAI API',
+          description: 'A demo repo based on DeepSeek API',
           theme_color: '#212129',
           background_color: '#ffffff',
           icons: [
